@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Sot1986\LaraPubSub\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaraPubSubCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'lara-pub-sub';
 
     public $description = 'My command';
 

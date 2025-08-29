@@ -2,9 +2,9 @@
 
 namespace Sot1986\LaraPubSub;
 
+use Sot1986\LaraPubSub\Commands\LaraPubSubCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Sot1986\LaraPubSub\Commands\LaraPubSubCommand;
 
 class LaraPubSubServiceProvider extends PackageServiceProvider
 {
